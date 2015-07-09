@@ -4,6 +4,8 @@ AppleEasing exports easing functions that are configured to match Core Animation
 
 **This library is currently supported only on React Native.**
 
+<img src="https://developer.apple.com/library/ios/documentation/Cocoa/Conceptual/Animation_Types_Timing/Art/standardtiming_2x.png" width="700" height="644" alt="Bezier curves of Core Animation timing functions">
+
 ## Installation
 
 ```
