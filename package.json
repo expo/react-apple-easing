@@ -1,6 +1,6 @@
 {
   "name": "react-apple-easing",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Apple's default Core Animation easing functions for React",
   "main": "AppleEasing.js",
   "scripts": {
