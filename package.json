@@ -1,0 +1,24 @@
+{
+  "name": "react-apple-easing",
+  "version": "0.0.1",
+  "description": "Apple's default Core Animation easing functions for React",
+  "main": "AppleEasing.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/exponentjs/react-apple-easing.git"
+  },
+  "keywords": [
+    "react",
+    "react-native",
+    "animated"
+  ],
+  "author": "James Ide",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/exponentjs/react-apple-easing/issues"
+  },
+  "homepage": "https://github.com/exponentjs/react-apple-easing#readme"
+}
